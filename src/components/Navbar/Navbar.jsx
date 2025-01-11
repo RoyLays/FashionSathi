@@ -19,17 +19,17 @@ const Menu = [
   },
   {
     id: 3,
-    name: "Kids Wear",
+    name: "Bride Wear",
     link: "/#",
   },
   {
     id: 3,
-    name: "Mens Wear",
+    name: "Groom Wear",
     link: "/#",
   },
   {
     id: 3,
-    name: "Electronics",
+    name: "Cosmetics",
     link: "/#",
   },
 ];
@@ -42,7 +42,7 @@ const DropdownLinks = [
   },
   {
     id: 2,
-    name: "Best Selling",
+    name: "Festive Season",
     link: "/#",
   },
   {
